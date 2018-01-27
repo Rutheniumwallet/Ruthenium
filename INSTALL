@@ -1,0 +1,9 @@
+Building ruthenium
+
+See doc/readme-qt.rst for instructions on building ruthenium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ruthenium.
+
+See doc/build-*.txt for instructions on building rutheniumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ruthenium.
